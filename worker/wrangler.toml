@@ -1,0 +1,4 @@
+name = "worker"
+main = "src/index.ts"
+compatibility_date = "2023-08-30"
+route = { pattern = "worker.brotli.walshy.dev", custom_domain = true }
